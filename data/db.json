@@ -1,0 +1,145 @@
+{
+  "shirts": [
+    {
+      "img": "/imgs/first.png",
+      "title": "T-SHIRT WITH TAPE DETAILS",
+      "text": "This graphic t-shirt which is perfect for any occasion. Crafted from a soft and breathable fabric, it offers superior comfort and style.",
+      "price": "$120",
+      "oldPrice": "$160",
+      "sale": "-20%",
+      "id": 1
+    },
+    {
+      "img": "/imgs/second.png",
+      "title": "SKINNY FIT JEANS",
+      "text": "This graphic t-shirt which is perfect for any occasion. Crafted from a soft and breathable fabric, it offers superior comfort and style.",
+      "price": "$240",
+      "oldPrice": "$160",
+      "sale": "-20%",
+      "id": 2
+    },
+    {
+      "img": "/imgs/third.svg",
+      "title": "CHECKERED SHIRT",
+      "text": "This graphic t-shirt which is perfect for any occasion. Crafted from a soft and breathable fabric, it offers superior comfort and style.",
+      "price": "$180",
+      "oldPrice": "$200",
+      "sale": "-20%",
+      "id": 3
+    },
+    {
+      "img": "/imgs/fourth.svg",
+      "title": "SLEEVE STRIPED T-SHIRT",
+      "text": "This graphic t-shirt which is perfect for any occasion. Crafted from a soft and breathable fabric, it offers superior comfort and style.",
+      "price": "$130",
+      "oldPrice": "$160",
+      "sale": "-30%",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "img": "/imgs/a.svg",
+      "title": "VERTICAL STRIPED SHIRT",
+      "text": "This graphic t-shirt which is perfect for any occasion. Crafted from a soft and breathable fabric, it offers superior comfort and style.",
+      "price": "$212",
+      "oldPrice": "$232",
+      "sale": "-20%",
+      "id": 5
+    },
+    {
+      "img": "/imgs/b.svg",
+      "title": "COURAGE GRAPHIC T-SHIRT",
+      "text": "This graphic t-shirt which is perfect for any occasion. Crafted from a soft and breathable fabric, it offers superior comfort and style.",
+      "price": "$145",
+      "oldPrice": "$160",
+      "sale": "-20%",
+      "id": 6
+    },
+    {
+      "img": "/imgs/c.svg",
+      "title": "LOOSE FIT BERMUDA SHORTS",
+      "text": "This graphic t-shirt which is perfect for any occasion. Crafted from a soft and breathable fabric, it offers superior comfort and style.",
+      "price": "$80",
+      "oldPrice": "$100",
+      "sale": "-20%",
+      "id": 7
+    },
+    {
+      "img": "/imgs/d.svg",
+      "title": "FADED SKINNY JEANS",
+      "text": "This graphic t-shirt which is perfect for any occasion. Crafted from a soft and breathable fabric, it offers superior comfort and style.",
+      "price": "$210",
+      "oldPrice": "$240",
+      "sale": "-30%",
+      "id": 8
+    }
+  ],
+  "allproducts": [
+    {
+      "img": "/imgs/first.png",
+      "title": "T-SHIRT WITH TAPE DETAILS",
+      "text": "This graphic t-shirt which is perfect for any occasion. Crafted from a soft and breathable fabric, it offers superior comfort and style.",
+      "price": "$120",
+      "oldPrice": "$160",
+      "sale": "-20%",
+      "id": 1
+    },
+    {
+      "img": "/imgs/second.png",
+      "title": "SKINNY FIT JEANS",
+      "price": "$240",
+      "oldPrice": "$160",
+      "sale": "-20%",
+      "id": 2
+    },
+    {
+      "img": "/imgs/third.svg",
+      "title": "CHECKERED SHIRT",
+      "price": "$180",
+      "oldPrice": "$200",
+      "sale": "-20%",
+      "id": 3
+    },
+    {
+      "img": "/imgs/fourth.svg",
+      "title": "SLEEVE STRIPED T-SHIRT",
+      "price": "$130",
+      "oldPrice": "$160",
+      "sale": "-30%",
+      "id": 4
+    },
+    {
+      "img": "/imgs/a.svg",
+      "title": "VERTICAL STRIPED SHIRT",
+      "price": "$212",
+      "oldPrice": "$232",
+      "sale": "-20%",
+      "id": 5
+    },
+    {
+      "img": "/imgs/b.svg",
+      "title": "COURAGE GRAPHIC T-SHIRT",
+      "price": "$145",
+      "oldPrice": "$160",
+      "sale": "-20%",
+      "id": 6
+    },
+    {
+      "img": "/imgs/c.svg",
+      "title": "LOOSE FIT BERMUDA SHORTS",
+      "price": "$80",
+      "oldPrice": "$100",
+      "sale": "-20%",
+      "id": 7
+    },
+    {
+      "img": "/imgs/d.svg",
+      "title": "FADED SKINNY JEANS",
+      "price": "$210",
+      "oldPrice": "$240",
+      "sale": "-30%",
+      "id": 8
+    }
+  ]
+}
